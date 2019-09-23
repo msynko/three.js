@@ -1,13 +1,9 @@
 {
   "name": "three.js",
   "version": "1.0.0",
-  "engines": {
-    "node": "10.16.0"
-  },
-  "description": "app",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node your-script.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/msynko/three.js/issues"
   },
-  "homepage": "https://github.com/msynko/three.js#readme"
+  "homepage": "https://github.com/msynko/three.js#readme",
+  "dependencies": {
+    "node": "^12.10.0"
+  }
 }
