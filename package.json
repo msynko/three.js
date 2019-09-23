@@ -1,5 +1,5 @@
 {
-  "name": "three.js",
+  "name": "3d",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -15,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/msynko/three.js/issues"
   },
-  "homepage": "https://github.com/msynko/three.js#readme",
-  "dependencies": {
-    "node": "^12.10.0"
-  }
+  "homepage": "https://github.com/msynko/three.js#readme"
 }
